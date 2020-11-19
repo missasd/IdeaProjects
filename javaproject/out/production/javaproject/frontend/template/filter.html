@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        // 例如，在一个Array中，删掉偶数，只保留奇数，可以这么写：
+        // filter()把传入的函数依次作用于每个元素，然后根据返回值
+        // 是true还是false决定保留还是丢弃该元素
+        // https://blog.csdn.net/Frost_Bite/article/details/88878063
+        'use strict';
+        var arr = [1, 2, 4, 5, 6, 9, 10, 15];
+        var r = arr.filter(function (value) {
+            return value % 2 !== 0;
+        });
+        console.log(r);
+
+        // 回调函数
+        // 利用filter函数去除重复元素；
+        // indexOf总是返回第一个元素的位置，后续的元素在回调函数中都返回false，因此被过滤了
+
+        var r, arr = ['apple', 'strawberry', 'banana', 'pear', 'apple', 'orange', 'orange', 'strawberry'];
+        r = arr.filter(function (value, index, self) {
+            return self.indexOf(value) === index;
+        });
+        console.log(r);
+
+        // 判断素数
+        function isPrime(x) {
+            if (x === 1){
+                return false;
+            }
+            if (x === 2 || x === 3 || x === 5){
+                return true;
+            }
+            if ((x % 6 === 5 || x % 6 === 1) && x % 5 !== 0 && x % 7 !== 0){
+                return true;
+            } else {
+                return false;
+            }
+        }
+        var y, p, arr2 = [];
+        for (var x = 0; x < 100; x++) {
+            if (isPrime(x)){
+                arr2.push(x);
+            }
+
+        }
+        console.log(arr2);
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

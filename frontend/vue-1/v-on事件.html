@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-bind="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>demo1</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+</head>
+<body>
+    <div id="app">
+        {{message}}
+        <span v-bind:title="message">hello</span>
+
+        <button @click="sayHi">点击我</button>
+    </div>
+
+<script>
+    var vm = new Vue({
+        el: "#app",
+        data: {
+            message: "Hello Vue",
+        },
+        methods : {
+            // this表示定义的vm对象
+            sayHi: function () {
+                alert(this.messeage);
+            }
+
+
+        }
+    })
+</script>
+</body>
+</html>

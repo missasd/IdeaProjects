@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3af9e47-c2d0-4e04-939a-af7d79b39622" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1370205679">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="41" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.14" value="6" />
+          <entry key="project.open.time.15" value="7" />
+          <entry key="project.open.time.16" value="4" />
+          <entry key="project.open.time.17" value="5" />
+          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Demo" value="1" />
+          <entry key="Director" value="2" />
+          <entry key="HashMMap" value="1" />
+          <entry key="JavaScript-modules-diagram/C:/Users/dell/IdeaProjects/javaproject/src/DesignPattern/Factory/SimpleFactory" value="1" />
+          <entry key="LinkedList" value="1" />
+          <entry key="MaxPQ" value="1" />
+          <entry key="Node" value="3" />
+          <entry key="PhoneFactory" value="4" />
+          <entry key="html" value="7" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="333" />
+          <entry key="js" value="5" />
+          <entry key="tld" value="1" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="2" />
+          <entry key="xsl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="7" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="333" />
+          <entry key="JavaScript" value="5" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="UML" value="14" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="44" />
+          <entry key="html" value="2607" />
+          <entry key="java" value="51970" />
+          <entry key="js" value="170" />
+          <entry key="tld" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="2607" />
+          <entry key="JAVA" value="51970" />
+          <entry key="JavaScript" value="170" />
+          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/InterceptingFilterDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Service1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Service2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/InitialContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Cache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/ServiceLocator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/ServiceLocatorPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/TransferObjectPattern/StudentVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/TransferObjectPattern/StudentBO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Tag Library Descriptor" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="XSLT Stylesheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hash</find>
+      <find>brands</find>
+      <find>State</find>
+      <find>BLOCKED</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>brand</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/Keyboard.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/Mouse.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/Computer.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/ComputerVisitor.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/ComputerPartVisitor.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/ComputerPartDisplayVisitor.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/VisitorPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/MVCPattern/StudentView.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/MVCPattern/Student.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/MVCPattern/StudentController.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/MVCPattern/MVCPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/BusinessService.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/EJBService.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/JMSService.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/BusinessLookUp.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/BusinessDelegate.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/BusinessDelegatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/DependentObject1.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/DependentObject2.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/CoarseGrainedObject.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/CompositeEntity.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/CompositeEntityPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/DataAccessObjectPattern/StudentDao.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/DataAccessObjectPattern/Student.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/DataAccessObjectPattern/StudentDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/DataAccessObjectPattern/DaoPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/FrontControllerPattern/HomeView.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/FrontControllerPattern/StudentView.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/FrontControllerPattern/Dispatcher.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/FrontControllerPattern/FrontController.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/FrontControllerPattern/FrontControllerPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/Filter.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/AuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/DebugFilter.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/Target.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/FilterChain.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/FilterManager.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/InterceptingFilterDemo.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Service.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Service1.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Service2.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/InitialContext.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Cache.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/ServiceLocator.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/ServiceLocatorPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/TransferObjectPattern/StudentVO.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/J2EE/TransferObjectPattern/StudentBO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="663" />
+    <option name="y" value="257" />
+    <option name="width" value="1264" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>WebSocket</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/dell/IdeaProjects/javaproject/src/frontend/js/myScript.js&#10;hash&#9;FILE&#9;uml://JAVA/java.util.HashMap.Node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603554564391" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/algs4.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DesignPattern.J2EE.CompositeEntityPattern" />
+      <recent name="java7ConcurrentProgram.chp2.p3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\IdeaProjects\javaproject\src\DesignPattern\J2EE" />
+      <recent name="C:\Users\dell\IdeaProjects\javaproject\src\DesignPattern\Behavior" />
+      <recent name="C:\Users\dell\IdeaProjects\javaproject\src\ArtofConcurrent" />
+      <recent name="C:\Users\dell\IdeaProjects\javaproject\src\IO\NettyinAction\chp1" />
+      <recent name="C:\Users\dell\IdeaProjects\javaproject\src\IO\NettyinAction" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TransferObjectPatternDemo">
+    <configuration name="DaoPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.J2EE.DataAccessObjectPattern.DaoPatternDemo" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.J2EE.DataAccessObjectPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontControllerPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.J2EE.FrontControllerPattern.FrontControllerPatternDemo" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.J2EE.FrontControllerPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterceptingFilterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.J2EE.InterceptingFilterPattern.InterceptingFilterDemo" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.J2EE.InterceptingFilterPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceLocatorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.J2EE.ServiceLocatorPattern.ServiceLocatorPatternDemo" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.J2EE.ServiceLocatorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferObjectPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.J2EE.TransferObjectPattern.TransferObjectPatternDemo" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.J2EE.TransferObjectPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DaoPatternDemo" />
+      <item itemvalue="Application.FrontControllerPatternDemo" />
+      <item itemvalue="Application.InterceptingFilterDemo" />
+      <item itemvalue="Application.ServiceLocatorPatternDemo" />
+      <item itemvalue="Application.TransferObjectPatternDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TransferObjectPatternDemo" />
+        <item itemvalue="Application.ServiceLocatorPatternDemo" />
+        <item itemvalue="Application.InterceptingFilterDemo" />
+        <item itemvalue="Application.FrontControllerPatternDemo" />
+        <item itemvalue="Application.DaoPatternDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3af9e47-c2d0-4e04-939a-af7d79b39622" name="Default Changelist" comment="" />
+      <created>1592383387635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592383387635</updated>
+      <workItem from="1592383389253" duration="631000" />
+      <workItem from="1592384176974" duration="6982000" />
+      <workItem from="1592439744282" duration="17920000" />
+      <workItem from="1592531074215" duration="11371000" />
+      <workItem from="1592548415923" duration="125000" />
+      <workItem from="1592548729389" duration="204000" />
+      <workItem from="1592557095613" duration="10532000" />
+      <workItem from="1592612581839" duration="8902000" />
+      <workItem from="1592671699623" duration="1091000" />
+      <workItem from="1592698679857" duration="5691000" />
+      <workItem from="1592789975531" duration="5276000" />
+      <workItem from="1592871889316" duration="2173000" />
+      <workItem from="1592999225380" duration="6825000" />
+      <workItem from="1593044667422" duration="4608000" />
+      <workItem from="1593086818587" duration="4319000" />
+      <workItem from="1593216951445" duration="3977000" />
+      <workItem from="1593258900828" duration="6970000" />
+      <workItem from="1593309000737" duration="3627000" />
+      <workItem from="1593339597645" duration="597000" />
+      <workItem from="1593878270932" duration="2938000" />
+      <workItem from="1594396432159" duration="1629000" />
+      <workItem from="1595519175584" duration="3179000" />
+      <workItem from="1595692292020" duration="215000" />
+      <workItem from="1595693402117" duration="193000" />
+      <workItem from="1595948952708" duration="2586000" />
+      <workItem from="1596386127475" duration="4693000" />
+      <workItem from="1597285895357" duration="8759000" />
+      <workItem from="1597505620046" duration="1559000" />
+      <workItem from="1598359348112" duration="10508000" />
+      <workItem from="1598573782480" duration="253000" />
+      <workItem from="1598713688673" duration="1254000" />
+      <workItem from="1598972162373" duration="3661000" />
+      <workItem from="1599059647036" duration="5424000" />
+      <workItem from="1599099842202" duration="610000" />
+      <workItem from="1599146182984" duration="2947000" />
+      <workItem from="1599318254586" duration="2209000" />
+      <workItem from="1599477566257" duration="8559000" />
+      <workItem from="1599560278169" duration="6284000" />
+      <workItem from="1599578290879" duration="3066000" />
+      <workItem from="1599664466498" duration="595000" />
+      <workItem from="1599694665227" duration="1129000" />
+      <workItem from="1600053676109" duration="599000" />
+      <workItem from="1600071529251" duration="1521000" />
+      <workItem from="1600219683714" duration="41405000" />
+      <workItem from="1603504589565" duration="25679000" />
+      <workItem from="1603551098067" duration="2592000" />
+      <workItem from="1603812766406" duration="1268000" />
+      <workItem from="1604509541702" duration="1206000" />
+      <workItem from="1605022468533" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="248935000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="78" y="56" width="1264" height="780" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4347826" visible="true" weight="0.12935324" />
+      <window_info id="Structure" order="1" sideWeight="0.5652174" side_tool="true" weight="0.19568823" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4367284" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2179289" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.14164306" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3292011" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="jclasslib" order="9" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/ComputerPartVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/ComputerPartDisplayVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Behavior/VisitorPattenr/VisitorPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/MVCPattern/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/MVCPattern/StudentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/MVCPattern/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="28" column="67" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/MVCPattern/MVCPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/BusinessService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/EJBService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/JMSService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/BusinessLookUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/BusinessDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/BusinessDelegatePattern/BusinessDelegatePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/DependentObject1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/DependentObject2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/CoarseGrainedObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/CompositeEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/CompositeEntityPattern/CompositeEntityPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/DataAccessObjectPattern/StudentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="599" column="6" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/DataAccessObjectPattern/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/DataAccessObjectPattern/StudentDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/DataAccessObjectPattern/DaoPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/FrontControllerPattern/HomeView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/FrontControllerPattern/StudentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/FrontControllerPattern/Dispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/FrontControllerPattern/FrontController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/FrontControllerPattern/FrontControllerPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/AuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/DebugFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/FilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/FilterManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern.java" />
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Cache.xsl" />
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/InterceptingFilterPattern/InterceptingFilterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Service1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Service2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/InitialContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/ServiceLocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/ServiceLocatorPattern/ServiceLocatorPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/TransferObjectPattern/StudentVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/J2EE/TransferObjectPattern/StudentBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaproject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

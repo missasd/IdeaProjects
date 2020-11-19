@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        'use strict';
+        <!--定义对象-->
+        var xiaoming = {
+            name : '小明',
+            birth : 1990
+        }
+    //    给xiaoming对象绑定一个函数
+        // 绑定到对象上的函数称为方法
+        // 在一个方法内部，this是一个特殊变量，
+        // 始终指向当前对象，也就是dahuang这个变量；
+        var dahuang = {
+            name : 'dahuang ',
+            birth : 1990,
+            age : function () {
+                var y  = new Date().getFullYear();
+                    return y - this.birth;
+            }
+        };
+
+        // 给变量绑定函数（拆开写）
+        // js函数内部如果调用类this，则this指向的视情况而定
+        // 如果以对象的方法形式调用，比如xiaoming.age()，该函数的this指向被调用的对象，也就是xiaoming，这是符合我们预期的。
+
+        // 如果单独调用函数，比如getAge()，此时，该函数的this指向全局对象，也就是window。
+
+        function getAge() {
+            var y = new Date().getFullYear();
+            return y - this.birth;
+        }
+
+        var liu = {
+            name : 'liu',
+            birth : 1990,
+            age : getAge
+        };
+        console.log(liu.age);
+        console.log(getAge());
+
+        // 用函数本身的apply方法
+        function getBirth() {
+            var y = new Date().getFullYear();
+            return y - this.birth;
+        }
+
+        var han = {
+            name : 'han',
+            birth : 1990,
+            age : getBirth()
+        };
+        console.log(han.age);// NaN
+        console.log(getBirth.apply(han, [])); // 30, this指向han,参数为空
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

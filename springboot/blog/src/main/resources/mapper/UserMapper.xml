@@ -1,0 +1,20 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.openblog.mapper.UserMapper">
+    <resultMap id="users" type="com.example.openblog.bean.User">
+        <id column="id" property="id"/>
+        <result column="username" property="username"/>
+        <result column="password" property="password"/>
+        <result column="status" property="status"/>
+        <result column="created" property="created"/>
+        <result column="login" property="login"/>
+        <result column="description" property="description"/>
+        <result column="role_id" property="role_id"/>
+    </resultMap>
+
+
+    <select id="findUserById" resultType="com.example.openblog.bean.User">
+        SELECT * FROM tbl_user WHERE id=#{id}
+    </select>
+</mapper>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        'use strict';
+        // 装饰器
+        var count = 0;
+        var oldParseInt = parseInt; // 保存原函数
+
+        window.parseInt = function () {
+            count += 1;
+            return oldParseInt.apply(null, arguments);
+            // 调用原函数
+        };
+        console.log(parseInt('10'));
+        console.log(parseInt('20'));
+        console.log(parseInt('30'));
+        console.log('count = ' + count);
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

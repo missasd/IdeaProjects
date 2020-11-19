@@ -1,0 +1,11 @@
+#DataSource Config
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/vueblog?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+mybatis-plus:
+  # 配置mapper扫面文件的路径
+  mapper-locations: classpath*:/mapper/**Mapper.xml
+

@@ -1,0 +1,36 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--    User findById(Integer id);
+
+    List<User> findAll();
+
+
+    Integer save(User user);
+
+    Integer deleteById(Integer id);
+
+    Integer updateUser(User user);-->
+
+<mapper namespace="com.example.springbootmybatiscrud.mapper.UserMapper">
+    <select id="findById" resultType="com.example.springbootmybatiscrud.entity.User">
+        SELECT * FROM t_user WHERE id=#{id}
+    </select>
+
+    <select id="findAll" resultType="com.example.springbootmybatiscrud.entity.User">
+        SELECT * FROM t_user
+    </select>
+
+    <insert id="save" parameterType="com.example.springbootmybatiscrud.entity.User" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO t_user  (username, password, description) VALUES (#{username}, #{password}, #{description})
+    </insert>
+
+    <delete id="deleteById" parameterType="java.lang.Integer">
+        DELETE FROM t_user WHERE id=#{id}
+    </delete>
+
+    <update id="updateUser" parameterType="com.example.springbootmybatiscrud.entity.User">
+        UPDATE SET(username, password, description) VALUES(#{username}, #{password}, #{description}) WHERE id=#{id}
+    </update>
+</mapper>
